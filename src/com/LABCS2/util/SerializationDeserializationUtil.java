@@ -1,6 +1,6 @@
-package sample.util;
+package LABCS2.util;
 
-import sample.data.CustomItem;
+import LABCS2.data.CustomItem;
 
 import java.io.*;
 import java.nio.file.Files;
