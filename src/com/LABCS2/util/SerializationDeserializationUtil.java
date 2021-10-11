@@ -1,6 +1,6 @@
-package LABCS2.util;
+package com.LABCS2.util;
 
-import LABCS2.data.CustomItem;
+import com.LABCS2.data.CustomItem;
 
 import java.io.*;
 import java.nio.file.Files;
