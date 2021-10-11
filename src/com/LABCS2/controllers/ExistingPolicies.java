@@ -1,8 +1,8 @@
-package LABCS2.controllers;
+package com.LABCS2.controllers;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.ListView;
-import LABCS2.Controller;
+import com.LABCS2.Controller;
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
