@@ -1,4 +1,4 @@
-package sample;
+package LABCS2;
 
 import sample.util.SerializationDeserializationUtil;
 
