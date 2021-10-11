@@ -1,6 +1,6 @@
-package LABCS2.util;
+package com.LABCS2.util;
 
-import LAB2CS.data.CustomItem;
+import com.LAB2CS.data.CustomItem;
 
 import java.util.ArrayList;
 import java.util.Arrays;
