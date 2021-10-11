@@ -1,4 +1,4 @@
-package sample;
+package LABCS2;
 
 import javafx.beans.property.BooleanProperty;
 import javafx.beans.property.SimpleBooleanProperty;
