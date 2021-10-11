@@ -1,4 +1,4 @@
-package LABCS2.data;
+package com.LABCS2.data;
 
 import java.io.Serializable;
 
