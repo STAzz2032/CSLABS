@@ -1,4 +1,4 @@
-package sample.controllers;
+package LABCS2.controllers;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.TextField;
