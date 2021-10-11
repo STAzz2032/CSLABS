@@ -1,9 +1,9 @@
-package LABCS2.controllers;
+package com.LABCS2.controllers;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.TextField;
-import sample.data.CustomItem;
-import sample.util.SerializationDeserializationUtil;
+import com.LABCS2.data.CustomItem;
+import com.LABCS2.util.SerializationDeserializationUtil;
 
 import java.util.List;
 
