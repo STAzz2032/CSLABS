@@ -1,4 +1,4 @@
-package com.radu.data;
+package com.LABCS1.data;
 
 import java.io.Serializable;
 import java.util.UUID;
